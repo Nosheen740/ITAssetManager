@@ -47,22 +47,23 @@ IT Asset Manager is a semester project that provides a centralized system for tr
 
 ## Project Structure
 
+```
 ITAssetManager/
-├── App.Core/
-│   ├── Models/
-│   ├── Interfaces/
-│   └── Services/
+├── App.Core/                  
+│   ├── Models/                
+│   ├── Interfaces/            
+│   └── Services/              
 │
-└── App.WindowsApp/
-    ├── Forms/
-    │   ├── MainForm
-    │   ├── DashboardView
-    │   ├── AssetForm
-    │   ├── EmployeeForm
-    │   ├── AssignmentForm
-    │   └── CategoryForm
-    └── Program.cs
-
+└── App.WindowsApp/            
+    ├── Forms/                 
+    │   ├── MainForm            
+    │   ├── DashboardView       
+    │   ├── AssetForm           
+    │   ├── EmployeeForm        
+    │   ├── AssignmentForm      
+    │   └── CategoryForm        
+    └── Program.cs             
+```
 ---
 
 ## Getting Started
